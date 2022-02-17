@@ -1,0 +1,27 @@
+{
+  "name": "first-node-proyect",
+  "version": "1.0.0",
+  "description": "our first proyect with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Deveckor/first-node-proyect.git"
+  },
+  "keywords": [
+    "node",
+    "kodemia",
+    "first-proyect"
+  ],
+  "author": "deveckor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deveckor/first-node-proyect/issues"
+  },
+  "homepage": "https://github.com/Deveckor/first-node-proyect#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
